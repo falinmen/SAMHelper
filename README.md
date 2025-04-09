@@ -3,7 +3,12 @@
 ## Описание проекта
 
 **ASMHelper.py** — это Python-скрипт, созданный для автоматизации процесса разблокировки достижений в игре через **SAM (Steam Achievement Manager)**. Программа позволяет быстро обработать игры, выполняя все необходимые действия по нажатию одной горячей клавиши (`F1`). Она идеально подходит для пользователей, которые хотят сэкономить время при работе с SAM.
-![Пример работы программы]([https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN3ZnI2YTB2b2xoODc1NDVrazRzNWV6c3Y0eXZ0d2cyanV3a2l3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2BBVL9r1pDkqV23ta/giphy.gif))
+
+<div align="center">
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRxZ3dndjA2c240OHk1YXQ3d2x2Y3BvMTFnNm84MWhsOXM2aXpvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2BBVL9r1pDkqV23ta/giphy.gif)
+
+</div>
 
 ---
 
